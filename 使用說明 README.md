@@ -1,6 +1,7 @@
 # 希歐老師說 WhatTheoSay
-# 過濾器階段使用說明
+過濾器階段使用說明
 最後紀元的過濾器設定 (Loot filters for Last Epoch)  
+
 希歐的過濾器會區分三個不同階段  
 每條規則前面都會寫階段  
 
